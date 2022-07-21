@@ -4,5 +4,5 @@ Hello atguigu!!
 Hello atguigu!!
 Hello atguigu!!
 Hello atguigu!!
-Hello atguigu!!	master
-Hello atguigu!!	hot-fix
+Hello atguigu!!	
+Hello atguigu!!	
